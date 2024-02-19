@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sergei\\source\\repos\\GAME3001_Lab2_SergeiKoshmin\\",
+  "WorkspaceRootPath": "C:\\Users\\Sergei\\Documents\\GitHub\\GAME1011_Labs\\LabEx2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C7172FC-5E07-4296-B361-C73056D41C1D}|GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.vcxproj|C:\\Users\\Sergei\\source\\repos\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3C7172FC-5E07-4296-B361-C73056D41C1D}|GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.vcxproj|C:\\Users\\Sergei\\Documents\\GitHub\\GAME1011_Labs\\LabEx2\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3C7172FC-5E07-4296-B361-C73056D41C1D}|GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.vcxproj|solutionrelative:GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GAME3001_Lab2_SergeiKoshmin.cpp",
-              "DocumentMoniker": "C:\\Users\\Sergei\\source\\repos\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergei\\Documents\\GitHub\\GAME1011_Labs\\LabEx2\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
               "RelativeDocumentMoniker": "GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
-              "ToolTip": "C:\\Users\\Sergei\\source\\repos\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
+              "ToolTip": "C:\\Users\\Sergei\\Documents\\GitHub\\GAME1011_Labs\\LabEx2\\GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
               "RelativeToolTip": "GAME3001_Lab2_SergeiKoshmin\\GAME3001_Lab2_SergeiKoshmin.cpp",
               "ViewState": "AQIAAIoAAAAAAAAAAAAAAHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
